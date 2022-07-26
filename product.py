@@ -1,1 +1,2 @@
 print("cake")
+print("tea")
